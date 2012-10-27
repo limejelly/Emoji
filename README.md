@@ -1,7 +1,7 @@
 Emoji
 =====
 
-Классы для быстрого доступа к значкам Emoji. Для каждого значка выделен отдельный статический метод.
+Классы для быстрого доступа к символам Emoji. Доступно четыре класса, в каждом из классов символы сгруппированы по тематике. Классы содержат статические методы, которые возвращают строку с символом Emoji.
 
 Пример:
 
@@ -17,7 +17,7 @@ Emoji
 
 Так же в каждом классе существует метод, чтобы получить все Emoji из класса:
 
-`[EmojiEmoticons allEmoticons];
-[EmojiMapSymbols allMapSymbols];
-[EmojiPictographs allPictographs];
-[EmojiTransport allTransport];`
+`[EmojiEmoticons allEmoticons];`
+`[EmojiMapSymbols allMapSymbols];`
+`[EmojiPictographs allPictographs];`
+`[EmojiTransport allTransport];`
