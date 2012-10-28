@@ -5,11 +5,11 @@ Russian
 
 Пример:
 
-`[EmojiEmoticons grinningCatFaceWithSmilingEyes];`
+`[EmojiEmoticons grinningCatFaceWithSmilingEyes];` - :grin:
 
 или
 
-`[EmojiPictographs antennaWithBars];`
+`[EmojiPictographs antennaWithBars];` - :signal_strength:
 
 Чтобы получить все Emoji:
 
@@ -32,11 +32,11 @@ Classes for quick access to Emoji symbols. There are four classes, each of the c
 
 Example:
 
-`[EmojiEmoticons grinningCatFaceWithSmilingEyes];`
+`[EmojiEmoticons grinningCatFaceWithSmilingEyes];` - :grin:
 
 OR
 
-`[EmojiPictographs antennaWithBars];`
+`[EmojiPictographs antennaWithBars];` - :signal_strength:
 
 Get all Emoji symbols:
 
