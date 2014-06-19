@@ -5,6 +5,8 @@
 //  Created by Aliksandr Andrashuk on 26.10.12.
 //  Copyright (c) 2012 Aliksandr Andrashuk. All rights reserved.
 //
+// Sasha, let's drink!
+//
 
 #import <Foundation/Foundation.h>
 
